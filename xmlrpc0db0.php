@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>http://my-portfolio.local</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://my-portfolio.local/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://my-portfolio.local/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://my-portfolio.local/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://my-portfolio.local/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://my-portfolio.local/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="wp-json/" />
 			</apis>
 	</service>
 </rsd>
