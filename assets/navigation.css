@@ -1,0 +1,5 @@
+#primary-site-navigation-desktop .menu-item-has-children:focus-within > .sub-menu {
+  right: auto;
+  left: 0;
+  visibility: visible;
+}

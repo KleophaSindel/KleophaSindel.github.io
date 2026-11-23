@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kleophasindel.github.io/sitemap.xml
